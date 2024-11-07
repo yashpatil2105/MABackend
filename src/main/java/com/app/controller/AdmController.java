@@ -15,7 +15,7 @@ import com.app.services.CampaignService;
 
 
 @RestController
-@CrossOrigin(origins = "http://localhost:3000")
+@CrossOrigin(origins = "https://medicangel-hahjdgc2e8edgqaa.canadacentral-01.azurewebsites.net")
 @RequestMapping("/admin")
 public class AdmController {
 	
