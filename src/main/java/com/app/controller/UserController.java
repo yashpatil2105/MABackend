@@ -29,7 +29,7 @@ import com.app.services.ImageHandlingService;
 import com.app.services.UserService;
 
 @RestController
-@CrossOrigin(origins = "http://localhost:3000")
+@CrossOrigin(origins = "https://medicangel-hahjdgc2e8edgqaa.canadacentral-01.azurewebsites.net")
 @RequestMapping("/user")
 public class UserController {
 	

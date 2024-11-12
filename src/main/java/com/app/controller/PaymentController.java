@@ -17,7 +17,7 @@ import com.razorpay.Order;
 import com.razorpay.RazorpayClient;
 import com.razorpay.RazorpayException;
 @RestController
-@CrossOrigin(origins = "http://localhost:3000")
+@CrossOrigin(origins = "https://medicangel-hahjdgc2e8edgqaa.canadacentral-01.azurewebsites.net")
 @RequestMapping("/pay")
 public class PaymentController {
 	@Autowired

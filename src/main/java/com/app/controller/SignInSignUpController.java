@@ -25,7 +25,7 @@ import com.app.services.UserService;
 import lombok.extern.slf4j.Slf4j;
 
 @RestController
-@CrossOrigin(origins = "http://localhost:3000")
+@CrossOrigin(origins = "https://medicangel-hahjdgc2e8edgqaa.canadacentral-01.azurewebsites.net")
 @RequestMapping("/auth")
 @Slf4j
 public class SignInSignUpController {

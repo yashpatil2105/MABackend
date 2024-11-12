@@ -13,7 +13,7 @@ import com.app.dto.DonarDto;
 import com.app.services.DonarService;
 
 @RestController
-@CrossOrigin(origins = "http://localhost:3000")
+@CrossOrigin(origins = "https://medicangel-hahjdgc2e8edgqaa.canadacentral-01.azurewebsites.net")
 @RequestMapping("/donar")
 public class DonarController {
 	
